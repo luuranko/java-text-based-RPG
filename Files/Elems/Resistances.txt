@@ -1,0 +1,27 @@
+// NAME, EFFECTNAME, STATUSNAME, CHANCE
+// Buffs: Block bad stati
+Fire Resistance;Burn;Burning;0.5
+Fire Immunity;Burn;Burning;1
+Cold Resistance;Freeze;Freezing;0.5
+Cold Immunity;Freeze;Freezing;1
+Poison Resistance;EFF;Poisoned;0.5
+Poison Immunity;EFF;Poisoned;1
+Slippery;EFF;Marked;0.4
+Truesight;EFF;Blinded;1
+Tremorsense;EFF;Blinded;1
+Patient;Distraction;Taunted;0.4
+Unimpressed;Seduction;Charmed;0.4
+Blessed;EFF;Cursed;1
+Sharp;Confusion;Confused;0.4
+Holy;Holy Radiance;STATUS;0.4
+Brave;Frighten;Frightened;0.4
+;
+// DEBUFFS: Block good stati OR give vulnerability to bad stati
+Vulnerable;EFF;Protected;1
+Cursed;EFF;Blessed;1
+Romantic;Seduction;Charmed;-0.3
+Sickly;EFF;Poisoned;-0.3
+Irritable;Distraction;Taunted;-0.3
+Timid;Frighten;Frightened;-0.5
+Demonic;Holy Radiance;STATUS;-0.3
+Unholy;Holy Radiance;STATUS;-0.5

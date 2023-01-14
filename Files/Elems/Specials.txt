@@ -1,0 +1,32 @@
+// NAME, PWR, HR, CR, TARGETALL?, COOLDOWN, SELFEFFECT, SELFSTATUS, TARGETEFFECT, TARGETSTATUS, STATUSCHANCE
+Guiding Bolt;2;0.75;0.05;false;4;SE;SS;Holy Radiance;Marked;0.95
+Word of Radiance;2;0.65;0;true;5;SE;SS;Holy Radiance;TS;1
+Sacred Flame;3;0.85;0.05;false;3;SE;SS;Holy Radiance;TS;1
+Fireball;3;0.55;0;true;6;SE;SS;Burn;TS;1
+Poison Dart;0;0.8;0.03;false;4;SE;SS;TE;Poisoned;0.9
+Poison Arrow;1;0.85;0.05;false;4;SE;SS;TE;Poisoned;0.95
+Sickening Touch;0;0.83;0;false;3;SE;SS;TE;Poisoned;0.85
+Barrage;2;0.65;0.05;true;6;SE;SS;TE;TS;1
+Bestow Curse;0;0.85;0;false;5;SE;SS;TE;Cursed;0.7
+Hex;0;0.75;0;false;5;SE;SS;TE;Cursed;0.65
+Magic Missile;3;0.65;0.1;true;5;SE;SS;TE;TS;1
+Hunter's Mark;0;0.95;0;false;4;SE;SS;TE;Marked;1
+Spin Attack;0;0.5;0.05;true;3;Haste;Hasted;TE;TS;1
+Smite;3;0.7;0.1;false;4;SE;Empowered;Holy Radiance;TS;1
+Searing Smite;3;0.7;0.09;false;5;SE;SS;Burn;Burning;1
+Rampage;4;0.45;0.2;true;5;SE;Raging;TE;TS;1
+Focused Strike;0;0.9;0.07;false;4;SE;Focused;TE;TS;1
+Evasive Maneuvers;0;0.7;0;true;4;SE;Evasive;TE;TS;1
+Curse of Rotting;0;0.75;0;false;5;SE;SS;TE;Rotting;0.7
+Leaping Strike;4;0.45;0.25;false;4;SE;SS;TE;TS;1
+Nosferatu;0;0.6;0.05;false;6;SE;Draining;TE;Drained;1
+Draining Kiss;0;0.69;0;false;6;SE;Draining;TE;Drained;1
+Ray of Frost;1;0.72;0.05;false;4;SE;SS;Freeze;Slowed;0.9
+Fire Bolt;1;0.7;0.05;false;5;SE;SS;Burn;Burning;0.95
+Fire Storm;3;0.6;0.05;true;7;SE;SS;Burn;Burning;0.95
+Mind Invasion;0;0.8;0.05;false;6;SE;SS;TE;Revealed;0.9
+Mass Amnesia;0;0.7;0;true;5;SE;SS;Exposure;TS;0.85
+Earth Blast;2;0.65;0.5;false;5;SE;SS;TE;Blinded;0.7
+Vicious Mockery;1;0.75;0;false;4;SE;SS;Distraction;TS;0.9
+Disarming Whispers;0;0.8;0;false;3;SE;SS;Seduction;TS;0.95
+Feral Charge;2;0.6;0.05;false;5;SE;SS;Frighten;Frightened;0.95

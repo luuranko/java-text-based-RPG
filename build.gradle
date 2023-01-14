@@ -1,0 +1,27 @@
+plugins {
+    id 'java'
+    id 'application'
+    id 'jacoco'
+    // id 'checkstyle'
+}
+application {
+    mainClass = 'Main.Main'
+}
+
+run {
+    standardInput = System.in
+}
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    testImplementation group: 'junit', name: 'junit', version: '4.13'
+}
+
+jar {
+    manifest {
+        attributes 'Main-Class': 'Main.Main'
+    }
+}

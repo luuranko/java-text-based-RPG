@@ -1,0 +1,6 @@
+// ID, RESULTSCENE ID, DESCRIP, RESULTSCENE NAME OR SCENESET NAME,...
+8;MartialReward;I practice martial skills.;ArcaneReward;I practice arcane magic.;HolyReward;I practice holy magic.
+1;SET:Imps;I go to the left road.;SET:Hounds;I turn right.
+0;EmpowermentReward;I choose the power of Empowerment.;LuckyReward;I choose the power of Luck.
+-1;0;Shula;0;Nuray;0;Esther
+-8;RandomEncounterChoice;Rest;Easy;Look for some easy scuffles;Medium;Seek out worthy foes;Hard;I want to be truly challenged

@@ -1,0 +1,8 @@
+// FEATURE STATI
+// By Status
+// Name, Status name, {Resistances}, healMultiplier, dmgMultiplier, resistanceBlock?
+// Deals damage by half amount of heal instead of healing
+Decaying;Rotting;RES;-0.5;0;false
+;
+// By full info
+// NAME, DURATION, {HP, STR, DEF, SPD}, {HR, EV, CR, CRRE}, HP PER TURN, {Resistances}, healMultiplier, dmgMultiplier, resistanceBlock?

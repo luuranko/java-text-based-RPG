@@ -1,0 +1,31 @@
+// NAME, STATUS, CHANCE
+// Käyttäjään
+Second Wind;Small Invigoration;STATUS;1
+Blessing;EFF;Blessed;1
+Healing Aura;Heal;Recovering;1
+Prayer of Protection;Heal;Protected;1
+Haste;Haste;Hasted;1
+Zealous Focus;Small Quickening;Focused;1
+Empowerment;EFF;Empowered;1
+Evasion;EFF;Evasive;1
+Rage;EFF;Raging;1
+Reset;Reset;STATUS;1
+Luck;EFF;Lucky;1
+Safe Waters;Refresh;Recovering;0.95
+;
+// Vastustajiin
+Taunt;EFF;Taunted;0.95
+Death Plague;EFF;Rotting;0.85
+Mass Curse;EFF;Cursed;0.95
+Holy Fire;Holy Radiance;Burning;1
+Hellfire;Burn;Burning;1.2
+Sandstorm;EFF;Blinded;0.95
+Divine Light;Holy Radiance;Blinded;1
+Lustful Visage;Seduction;Charmed;0.8
+Blizzard;Freeze;Freezing;0.9
+Freezing Wind;Freeze;Freezing;0.8
+Grease;EFF;Slowed;0.7
+Mind Blast;Confusion;Confused;0.8
+Confusion;Confusion;Confused;0.75
+Luring Song;EFF;Charmed;0.7
+Fearsome Presence;Frighten;Frightened;0.7

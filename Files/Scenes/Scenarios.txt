@@ -1,0 +1,70 @@
+//ID, NAME, DESCRIP_ID, NEXTSCENE/SET, TYPE
+-;TheEnd;15;-;Basic
+{Misc
+-;ElementalsReward;3;TheEnd;Reward;ATK;SP;INV;2,0,0,1
+-;Elementals;1;-;Combat;Sand Demon,Water Demon,Fire Demon
+}
+{Mountain
+[WeaponUpgrade
+-;Shula4;16;SET:Misc;Reward;Sunblade;SP;INV;2,0,0,0
+-;Nuray4;17;SET:Misc;Reward;Moonbow;SP;INV;2,0,0,0
+-;Esther4;18;SET:Misc;Reward;Starlit Mace;SP;INV;2,0,0,0
+]
+-;IceDemon;12;WeaponUpgrade;Combat;Ice Demon,Gorilla Demon
+-;HolyReward;11;IceDemon;Reward;ATK;Bestow Curse;INV;STAT
+-;ArcaneReward;10;IceDemon;Reward;ATK;Magic Missile;INV;STAT
+-;MartialReward;9;IceDemon;Reward;ATK;Leaping Strike;INV;STAT
+-;PreMiniBoss;8;-;Choice;8
+-;PrayerReward;13;-;Reward;ATK;SP;Prayer of Protection;3,0,1,0
+-;Succubus;14;-;Combat;Succubus,Rogue,Swashbuckler
+-;SecondReward;7;-;Reward;ATK;SP;Zealous Focus;3,1,0,0
+}
+{Hounds
+-;GorillaReward;4;SET:Mountain;Reward;ATK;SP;Rage;5,0,0,0
+-;GorillaFight;6;-;Combat;Gorilla Demon,Hellhound
+-;HoundReward;4;-;Reward;ATK;SP;INV;4,0,0,0
+-;Hellhounds;2;-;Combat;Hellhound,Maw Demon
+}
+{Imps
+-;WitchReward;3;SET:Mountain;Reward;ATK;SP;Haste;4,0,0,1
+-;WitchFight;5;-;Combat;Witch,Imp,Imp
+-;ImpReward;3;-;Reward;ATK;SP;INV;3,0,0,0
+-;Imps;1;-;Combat;Cackling Imp,Imp,Impling
+}
+-;ChoiceImpsOrHounds;0;-;Choice;1
+{Implings
+-;ImplingsReward;3;ChoiceImpsOrHounds;Reward;ATK;SP;INV;3,0,0,0
+-;Implings;1;-;Combat;Toxic Imp,Imp,Impling
+}
+{4th
+[3rdTriple
+-;Shula3;16;SET:Implings;Reward;ATK;Fireball;INV;2,0,0,0
+-;Nuray3;17;SET:Implings;Reward;ATK;Barrage;INV;2,0,0,0
+-;Esther3;18;SET:Implings;Reward;ATK;Word of Radiance;INV;2,0,0,0
+]
+-;4thCombat;1;3rdTriple;Combat;Cackling Imp,Hellhound
+}
+{ChosenInvocation
+-;LuckyReward;3;SET:4th;Reward;ATK;SP;Luck;STAT
+-;EmpowermentReward;3;SET:4th;Reward;ATK;SP;Empowerment;STAT
+-;FirstChoice;0;-;Choice;0
+}
+-;3rdCombat;1;SET:ChosenInvocation;Combat;Maw Demon,Imp
+{2nd
+[2ndTriple
+-;Shula2;16;3rdCombat;Reward;ATK;SP;Holy Fire;2,0,0,0
+-;Nuray2;17;3rdCombat;Reward;ATK;SP;Divine Light;2,0,0,0
+-;Esther2;18;3rdCombat;Reward;ATK;SP;Healing Aura;2,0,0,0
+]
+-;2ndCombat;1;2ndTriple;Combat;Hellhound,Imp
+}
+{First
+[FirstTriple
+-;Shula1;16;SET:2nd;Reward;ATK;Smite;INV;1,0,0,0
+-;Nuray1;17;SET:2nd;Reward;ATK;Poison Arrow;INV;1,0,0,0
+-;Esther1;18;SET:2nd;Reward;ATK;Guiding Bolt;INV;1,0,0,0
+]
+0;First;1;FirstTriple;Combat;Imp,Impling
+}
+-1;PlayerChoose;-1;First;Choice;-1
+-8;RandomEncounterChoice;-8;-;Choice;-8

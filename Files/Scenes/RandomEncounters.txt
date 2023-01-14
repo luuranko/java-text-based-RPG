@@ -1,0 +1,68 @@
+// This file should be loaded AFTER Scenarios.txt
+// PRE-DESIGNED RANDOM ENCOUNTERS
+// BEGIN, HERORATING, RewardScene, CombatScene, END
+
+// EASY
+{
+min,max
+-9;EasyReward;-9;CHID;ENEM;ATK;?SP?;?INV?;0,0,0,0;null
+-2;EasyRandom;-2;CHID;_;ATK;SP;INV;STAT;EasyReward
+}
+{
+min,max
+-9;EasyReward;-9;CHID;ENEM;ATK;?SP?;?INV?;0,0,0,0;null
+-2;EasyRandom;-2;CHID;_;ATK;SP;INV;STAT;EasyReward
+}
+min,max
+-9;EasyReward;-9;CHID;ENEM;ATK;?SP?;?INV?;0,0,0,0;null
+-2;EasyRandom;-2;CHID;_;ATK;SP;INV;STAT;EasyReward
+}
+{
+min,max
+-9;EasyReward;-9;CHID;ENEM;ATK;?SP?;?INV?;0,0,0,0;null
+-2;EasyRandom;-2;CHID;_;ATK;SP;INV;STAT;EasyReward
+}
+
+// MEDIUM
+{
+min,max
+-9;MediumReward;-9;CHID;ENEM;ATK;?SP?;?INV?;0,0,0,0;null
+-3;MediumRandom;-3;CHID;_;ATK;SP;INV;STAT;MediumReward
+}
+{
+min,max
+-9;MediumReward;-9;CHID;ENEM;ATK;?SP?;?INV?;0,0,0,0;null
+-3;MediumRandom;-3;CHID;_;ATK;SP;INV;STAT;MediumReward
+}
+{
+min,max
+-9;MediumReward;-9;CHID;ENEM;ATK;?SP?;?INV?;0,0,0,0;null
+-3;MediumRandom;-3;CHID;_;ATK;SP;INV;STAT;MediumReward
+}
+{
+min,max
+-9;MediumReward;-9;CHID;ENEM;ATK;?SP?;?INV?;0,0,0,0;null
+-3;MediumRandom;-3;CHID;_;ATK;SP;INV;STAT;MediumReward
+}
+
+// HARD
+{
+min,max
+-9;HardReward;-9;CHID;ENEM;ATK;?SP?;?INV?;0,0,0,0;null
+-4;HardRandom;-4;CHID;_;ATK;SP;INV;STAT;HardReward
+}
+{
+min,max
+-9;HardReward;-9;CHID;ENEM;ATK;?SP?;?INV?;0,0,0,0;null
+-4;HardRandom;-4;CHID;_;ATK;SP;INV;STAT;HardReward
+}
+{
+min,max
+-9;HardReward;-9;CHID;ENEM;ATK;?SP?;?INV?;0,0,0,0;null
+-4;HardRandom;-4;CHID;_;ATK;SP;INV;STAT;HardReward
+}
+{
+min,max
+-9;HardReward;-9;CHID;ENEM;ATK;?SP?;?INV?;0,0,0,0;null
+-4;HardRandom;-4;CHID;_;ATK;SP;INV;STAT;HardReward
+}

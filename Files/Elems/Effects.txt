@@ -1,0 +1,18 @@
+// NAME, HPCHANGE, COOLDOWNCHANGE, CLEARBUFFS?, CLEARDEBUFFS?
+// BUFFS
+Heal;5;0;false;false
+Refresh;2;0;false;true
+Haste;0;-2;false;false
+Reset;0;-10;true;true
+Small Invigoration;5;-1;false;false
+Small Quickening;0;-1;false;false
+;
+// DEBUFFS
+Burn;-1;0;false;false
+Freeze;-1;0;false;false
+Exposure;0;0;true;false
+Distraction;0;1;false;false
+Confusion;0;2;false;false
+Holy Radiance;-1;0;false;false
+Frighten;0;1;true;false
+Seduction;0;1;true;false

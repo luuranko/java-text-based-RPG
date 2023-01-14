@@ -1,0 +1,128 @@
+// ID, DESCRIP, LINEREAD END ";"
+>-9
+Randomized reward for random encounter.
+;
+>-8
+You can retire for the day and continue your journey tomorrow, or you can stay here to look for trouble and train.
+;
+>-4
+Suddenly, a hard random encounter!
+;
+>-3
+Suddenly, a medium difficulty random encounter!
+;
+>-2
+Suddenly, an easy random encounter!
+;
+>-1
+Choose your hero:
+SHULA, a devoted halberdier of Astorut.
+She has the searing power of the Sun imbued in her holy halberd,
+allowing her to use Searing Smite to burn her enemies.
+Before the war she was always looking for a chance to prove her worth,
+and now she has been called to a purpose higher than she ever imagined.
+NURAY, an archer from the desert plains.
+As a hunter, she can use Hunter's Mark to mark her prey.
+She has been noticed by Lunere himself on her quest to bring peace back to her oasis
+- and the entire world.
+ESTHER, a calm protector who was born under auspicious stars.
+She can use her holy powers to strike weaponized starlight into her enemies:
+she can cast Sacred Flame to inflict the power of Holy Radiance on foes.
+After receiving the summons of the twin star gods,
+she grabbed her ancestors' mace and embarked on her quest to protect the world.
+;
+>0
+You come to a crossroads in your path.
+From the left path you can hear the snickerings of several imps.
+From the right you hear the infernal howls of hellhounds.
+Which path do you take?
+;
+>1
+Soon after you step into the road, you spot some imps setting fire to a tree.
+The imps see you and cackle at your furious expression.
+You draw your weapon.
+;
+>2
+When you walk the scorched path, you soon notice the howling has stopped.
+You hear rustling and see hellhounds approaching you, fangs bared.
+The hounds rush in and you have just enough time to draw your weapon!
+;
+>3
+You take a short rest on the ashy ground and think on the previous skirmish.
+Trying to dodge and hit those slippery imps has left you feeling frustrated,
+but you also think you learned a valuable lesson.
+;
+>4
+You managed to clear your way through the hellish dogs,
+and decide to take a moment to rest under a tree that is less scorched than many others.
+After saying a few prayers,
+you notice you feel ready to get back on your feet sooner than usual.
+;
+>5
+As you finish cleaning your weapon, you see another imp approaching.
+It yells and cackles when it sees you, beckoning someone over.
+You see a woman with fire-red hair and even redder eyes.
+"So it is you who has been bullying my darling imps!" she snarls.
+"You will pay for touching my things! Arietis, I beseech you!"
+You have no time to argue before she is already flinging fire at you.
+;
+>6
+You have barely finished your rations when you hear a howl.
+A hellhound is fast approaching, and you hear heavy footsteps following.
+Behind the burning trees, you see a huge gorilla-like demon stomping onward,
+led on by a single hellhound that is headed straight toward you.
+You swallow the rest of your bread hastily and draw your weapon.
+;
+>7
+After two battles back-to-back, you are inclined to leave the burning forest and its choking air as fast as you can.
+You hike the rest of the day and end up at the foot of a mountain.
+You set up camp and think about the family you left behind at home.
+You remember the demons that ravaged your home and killed many of your friends and neighbours.
+Rage builds up within you.
+;
+>8
+As your food boils on the campfire, you start training for the next day of killing demons.
+;
+>9
+You set up a charred log to target as you leap to the air before striking a finishing blow.
+After a few tries you have perfected your technique and destroy the log into splinters.
+;
+>10
+You set up a ring of rocks and sit in the middle, reciting arcane runes from your scrolls.
+Before long, you have mastered the perfect arrangement of runes to send pure magical force into the rocks, shattering them into dust.
+;
+>11
+You spend the evening praying.
+Soft light envelops you.
+Your prayers are answered,
+and you obtain the power to take fortune away from creatures that do not deserve it.
+;
+>12
+The next morning you begin your hike up the mountain.
+It seems that the smaller demons originate from here, but you manage to sneak past them.
+The higher you climb, the colder it gets.
+You are shivering by the time you reach the summit, and notice a growing storm cloud being brewed by a huge demon of ice.
+You dread to think of what would happen if such a storm reached the nearby human settlements, and draw your weapon.
+;
+>13
+Despite having killed the Ice Demon, the blizzard is still roaring in the sky.
+The magical snow threatens to freeze you alive and you find no other option but to invoke your deity and ask them for guidance with a shivering voice.
+A bright beam of light penetrates through the storm cloud and dispels it.
+The light then dissipates, but warms you inside and out before disappearing.
+;
+>14
+Soon after, a succubus flies in with her minions.
+You glare at the demons and ready your weapon.
+;
+>15
+You have reached the end of the demo.
+;
+>16
+Astorut blesses Shula with greater power!
+;
+>17
+Lunere blesses Nuray with new abilities!
+;
+>18
+Astranea and Stellenis bless Esther with holy power!
+;

@@ -1,0 +1,44 @@
+// NAME, {HP, STR, DEF, SPD}, ATTACK, {SPECIALS}, {INVOCATIONS}, {RESISTANCES}
+// PCs
+Shula;15,2,2,2;Halberd;Searing Smite;Second Wind;Holy,Brave,Irritable
+Nuray;15,2,2,2;Longbow;Hunter's Mark;Second Wind;Holy,Sharp,Romantic
+Esther;15,2,2,2;Mace;Sacred Flame;Second Wind;Holy,Patient,Timid
+//
+// Demons (ALL SHOULD HAVE DEMONIC-RES)
+Impling;4,1,0,1;Fork;SP;INV;Demonic
+Gorilla Demon;15,4,2,0;Slam;Rampage,Feral Charge;Rage;Demonic,Fire Resistance
+Imp;5,2,1,2;Fork;SP;INV;Demonic
+Hellhound;6,3,1,1;Bite;Hunter's Mark;INV;Demonic
+Maw Demon;10,3,1,2;Bite;Feral Charge;INV;Demonic
+Toxic Imp;10,3,1,2;Fork;Sickening Touch,Poison Dart;INV;Demonic,Poison Immunity
+Cackling Imp;9,2,1,3;Fork;Vicious Mockery;Taunt;Demonic
+Fire Demon;20,4,2,2;Fork;Fire Bolt,Fireball,Fire Storm;Hellfire;Demonic,Fire Immunity
+Succubus;20,4,1,4;Claws;Draining Kiss,Disarming Whispers;Lustful Visage;Demonic,Fire Resistance,Unimpressed
+Ice Demon;20,4,2,3;Claws;Ray of Frost;Blizzard,Freezing Wind;Demonic,Cold Immunity
+Sand Demon;25,4,2,2;Claws;Earth Blast;Sandstorm;Demonic,Tremorsense,Fire Resistance
+Water Demon;25,4,2,3;Bite;Spin Attack;Safe Waters;Demonic,Fire Immunity
+// Other monsters
+Zombie;8,3,1,0;Punch;Sickening Touch,Curse of Rotting;INV;Unholy,Poison Immunity
+Skeleton;9,2,2,1;Sword;SP;INV;Unholy,Poison Immunity
+Harpy;15,3,2,5;Claws;Leaping Strike,Feral Charge;Evasion,Luring Song;RES
+Näck;15,3,1,4;Bite;Vicious Mockery,Disarming Whispers;Luring Song,Safe Waters;Unimpressed
+Vampire;30,4,4,3;Claws;Sickening Touch,Nosferatu,Draining Kiss,Hunter's Mark;Fearsome Presence;Unholy
+Mind Flayer;25,3,2,3;Tentacles;Mind Invasion,Amnesia;Mind Blast;Truesight
+Goblin;6,2,0,3;Spear;SP;INV;RES
+Nilbog;8,3,0,3;Punch;Vicious Mockery;Luck;RES
+Kobold;5,2,0,4;Spear;SP;INV;Fire Resistance
+Winged Kobold;7,2,0,4;Spear;Evasive Maneuvers;INV;Fire Resistance
+Orc Soldier;15,3,2,0;Scimitar;SP;INV;RES
+Orc Captain;25,4,2,0;Scimitar;Focused Strike,Leaping Strike;Second Wind;RES
+// NPCs
+Jester;15,3,1,4;Scimitar;Vicious Mockery;Luck,Taunt;Slippery
+Bard;15,3,1,4;Rapier;Vicious Mockery;Luring Song,Confusion;RES
+Rogue;12,3,1,4;Dagger;Poison Arrow;Evasion;Slippery
+Ranger;15,3,1,3;Longbow;Hunter's Mark;INV;RES
+Cleric;18,3,0,2;Mace;Guiding Bolt,Sacred Flame;Blessing,Healing Aura;Holy
+Paladin;20,4,3,0;Sword;Smite;Zealous Focus;Holy
+Witch;15,3,1,2;Eldritch Blast;Fire Bolt,Fireball,Hex;Hellfire;Fire Resistance,Demonic
+Barbarian;22,4,2,0;Reckless Strike;Rampage,Feral Charge;Empowerment;Irritable
+Death Mage;20,3,2,2;Dagger;Curse of Rotting,Nosferatu;Death Plague;Unholy
+Wizard;15,2,1,3;Staff;Magic Missile,Fire Bolt,Ray of Frost;Grease,Haste;RES
+Swashbuckler;12,3,1,3;Rapier;Focused Strike,Evasive Maneuvers;INV;RES
